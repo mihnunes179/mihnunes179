@@ -1,6 +1,6 @@
-boas vinda ao meu perfiel 🩷
+Boas vinda ao meu perfil 🩷
 
-meu nome e Micaelly Vasconcelos Nunes
+Meu nome e Micaelly Vasconcelos Nunes
 
 -estou estudando na alura
 -estou desenvolvendo na linguagem javaScript
@@ -8,4 +8,4 @@ ultilizo esse espaco para a minha organizacao e compartilhamento dos meus projet
 
 ###voce pode entrar em contato comigo
 
-00001123165245s
+![](https://media1.tenor.com/m/nXNHCwBK_M4AAAAC/lazy-cat.gif)
